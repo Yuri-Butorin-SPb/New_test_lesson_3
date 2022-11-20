@@ -68,4 +68,10 @@ git checkout
 git checkout master
 ```
 
+## Разница между _текущим_ файлом и _закоммиченным_
+
+```
+git diff
+```
+
 
