@@ -2,7 +2,16 @@
 
 ## Как добавить таблицу
 
-Еще один какой-то текст для конфликта
+Таблицы в MarkDown создаются таким образом:
+
+| Left-Aligned | Center Aligned | Right Aligned |
+|:------------- |:---------------:| -------------:|
+| col 3 is | some wordy text | **$1600** |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | ~~$1~~ |
+
+Внутри таблиц можно использовать ссылки, наклонный,
+жирный или зачеркнутый текст.
 
 ## Как добавить исходный код
 
@@ -12,6 +21,7 @@
 ```
 Пример рабочего кода без кавычек:
 <table><tr><td style="color:#FFD700">Текст</td></tr></table>
+
 
 ## Как добавить Зачеркивание
 
@@ -30,4 +40,5 @@
 Пример:
 
 [![прикол](https://phonoteka.org/uploads/posts/2022-04/1651180436_55-phonoteka-org-p-krasivie-oboi-gori-krasivo-79.jpg)](https://klike.net/uploads/posts/2020-09/1601280513_14.jpg)
+
 ## Как добавить ссылки
